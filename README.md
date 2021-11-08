@@ -10,7 +10,7 @@
 https://www.kaggle.com/arjunbhasin2013/ccdata
 
 ## Programming Language
-- Python
+Python
 
 ## Plots & Models
 
