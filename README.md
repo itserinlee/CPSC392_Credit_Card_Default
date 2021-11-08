@@ -3,16 +3,14 @@
 
 ***By: Anthony Foley, Erin Lee & Christian Muresan***
 
-- credit_card_analysis_code.ipynb
-  ###### a jupyter notebook with the code used for the predictive models and clustering techniques
-- credit_card_analysis_presentation.pdf
-  ###### our final presentation including our findings
+- credit_card_analysis_code.ipynb: a jupyter notebook with the code used for the predictive models and clustering techniques
+- credit_card_analysis_presentation.pdf: our final presentation including our findings
 
 ## Data Set
 https://www.kaggle.com/arjunbhasin2013/ccdata
 
 ## Programming Language
-Python
+###### Python
 
 ## Plots & Models
 
