@@ -2,9 +2,9 @@
 
 <br>
 
-***Introduction to Data Science - CPSC 392, (Fall 2020)***
+*Introduction to Data Science - CPSC 392, (Fall 2020)*
 
-*Anthony Foley, Erin Lee & Christian Muresan*
+***Anthony Foley, Erin Lee & Christian Muresan***
 
 <dl>
   <dt>credit_card_analysis_code.ipynb</dt>
@@ -13,9 +13,6 @@
   <dd>our final presentation including our findings</dd>
 </dl>
 
-
-- credit_card_analysis_code.ipynb: a jupyter notebook with the code used for the predictive models and clustering techniques
-- credit_card_analysis_presentation.pdf: our final presentation including our findings
 
 ## Data Set
 https://www.kaggle.com/arjunbhasin2013/ccdata
