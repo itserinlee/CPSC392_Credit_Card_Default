@@ -4,7 +4,9 @@
 
 *Introduction to Data Science - CPSC 392, (Fall 2020)*
 
-***Anthony Foley, Erin Lee & Christian Muresan***
+***By: Anthony Foley, Erin Lee & Christian Muresan***
+
+
 
 <dl>
   <dt>credit_card_analysis_code.ipynb</dt>
