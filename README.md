@@ -1,7 +1,7 @@
 # CPSC 392 Final Project: Credit Card Default Analysis
-*Introduction to Data Science - CPSC 392, (Fall 2020)*
 
-***By: Anthony Foley, Erin Lee & Christian Muresan***
+***Introduction to Data Science - CPSC 392, (Fall 2020)***
+*By: Anthony Foley, Erin Lee & Christian Muresan*
 
 - credit_card_analysis_code.ipynb: a jupyter notebook with the code used for the predictive models and clustering techniques
 - credit_card_analysis_presentation.pdf: our final presentation including our findings
