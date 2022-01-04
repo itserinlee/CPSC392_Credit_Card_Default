@@ -1,12 +1,8 @@
 # CPSC 392 Final Project: Credit Card Default Analysis
-***
-
-
 *Introduction to Data Science - CPSC 392, (Fall 2020)*
 
 ***Anthony Foley, Erin Lee & Christian Muresan***
-
-<br>
+***
 
 ## Data Set
 https://www.kaggle.com/arjunbhasin2013/ccdata
